@@ -1,0 +1,45 @@
+<!--pages/a/a.wxml-->
+<!-- <text>pages/a/a.wxml</text> -->
+<view class="img">
+  <image src="../../image/1.jpg"></image>
+</view>
+<view class="message">
+  <view class="message_item">
+    <text class="h3">姓名</text>
+    <view class="message_inem_mobile">
+      <view class="message_inem_txt">
+        <text class="mobile">手机</text>
+        <text class="mobile">175584187333</text>
+      </view>
+      <button size="mini">按钮</button>
+    </view>
+    <view class="message_inem_mobile">
+      <view class="message_inem_txt">
+        <text class="mobile">手机</text>
+        <text class="mobile">175584187333</text>
+      </view>
+      <button  size="mini">按钮</button>
+    </view>
+    <view class="message_inem_mobile">
+      <view class="message_inem_txt">
+        <text class="mobile">手机</text>
+        <text class="mobile">175584187333</text>
+      </view>
+      <button  size="mini">按钮</button>
+    </view>
+  </view>
+  <view class="yield">
+    <view class="yield_item">
+      <view class="img"></view>
+      <text>生产海报</text>
+    </view>
+     <view class="yield_item">
+      <view class="img"></view>
+      <text>生产海报</text>
+    </view>
+     <view class="yield_item">
+      <view class="img"></view>
+      <text>生产海报</text>
+    </view>
+  </view>
+</view>
