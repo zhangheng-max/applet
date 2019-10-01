@@ -11,21 +11,21 @@
         <text class="mobile">手机</text>
         <text class="mobile">175584187333</text>
       </view>
-      <button size="mini">按钮</button>
+      <button size="mini">拨打</button>
     </view>
     <view class="message_inem_mobile">
       <view class="message_inem_txt">
-        <text class="mobile">手机</text>
-        <text class="mobile">175584187333</text>
+        <text class="mobile">邮箱</text>
+        <text class="mobile">3311951458@qq.com</text>
       </view>
-      <button  size="mini">按钮</button>
+      <button  size="mini">复制</button>
     </view>
     <view class="message_inem_mobile">
       <view class="message_inem_txt">
-        <text class="mobile">手机</text>
-        <text class="mobile">175584187333</text>
+        <text class="mobile">职业</text>
+        <text class="mobile">Web前段开发工程师</text>
       </view>
-      <button  size="mini">按钮</button>
+      <button  size="mini">复制</button>
     </view>
   </view>
   <view class="yield">
@@ -35,11 +35,11 @@
     </view>
      <view class="yield_item">
       <view class="img"></view>
-      <text>生产海报</text>
+      <text>保存电话</text>
     </view>
      <view class="yield_item">
       <view class="img"></view>
-      <text>生产海报</text>
+      <text>分享好友</text>
     </view>
   </view>
 </view>

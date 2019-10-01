@@ -1,2 +1,18 @@
 <!--pages/project/project.wxml-->
-<text>pages/project/project.wxml</text>
+<!-- <text>pages/project/project.wxml</text> -->
+<view class="main">
+  <view class="content">
+    <image src="../../image/1.jpg" class="img"></image>
+    <view class="content_item">
+      <text class="content_item_top">日志版</text>
+      <text class="content_item_button">记录技术、技巧、常识、经验类文章</text>
+    </view>
+  </view>
+   <view class="content">
+    <image src="../../image/1.jpg" class="img"></image>
+    <view class="content_item">
+      <text class="content_item_top">日志版</text>
+      <text class="content_item_button">记录技术、技巧、常识、经验类文章</text>
+    </view>
+  </view>
+</view>

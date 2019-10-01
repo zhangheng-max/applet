@@ -15,7 +15,7 @@
     "list": [
       {
         "iconPath": "image/index.png",
-        "selectedIconPath":"image/index.png",
+        "selectedIconPath": "image/index.png",
         "pagePath": "pages/index/index",
         "text": "首页"
       },
@@ -31,8 +31,7 @@
         "pagePath": "pages/resume/resume",
         "text": "简历"
       }
-      
     ]
-  }
-   
+  },
+  "sitemapLocation": "sitemap86.json"
 }
