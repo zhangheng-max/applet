@@ -1,5 +1,6 @@
 {
   "pages": [
+    "pages/journal/journal",
     "pages/index/index",
     "pages/project/project",
     "pages/resume/resume"

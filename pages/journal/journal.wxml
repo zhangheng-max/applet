@@ -1,0 +1,31 @@
+<!--pages/journal/journal.wxml-->
+<!-- <text>pages/journal/journal.wxml</text> -->
+<view class="header">
+  <view class="header_top"></view>
+  <view class="header_button">
+ “日志版”主要记录技术、技巧、常识、经验类文章。用户可以发自己的文章，同时可以留言与文章发布者沟通，一同探索问题。
+  </view>
+</view>
+<view class="main">
+  <view class="main_txt">
+    <view class="h4">首页</view>
+    <view class="main_item">
+      <text>各类文章列表，可以让用户更方便的找到自己感兴趣的文章</text>
+      <view class="item_img"></view>
+    </view>
+  </view>
+  <view class="main_txt">
+    <view class="h4">首页</view>
+    <view class="main_item">
+      <text>各类文章列表，可以让用户更方便的找到自己感兴趣的文章</text>
+      <view class="item_img"></view>
+    </view>
+  </view>
+  <view class="main_txt">
+    <view class="h4">首页</view>
+    <view class="main_item">
+      <text>各类文章列表，可以让用户更方便的找到自己感兴趣的文章</text>
+      <view class="item_img"></view>
+    </view>
+  </view>
+</view>

@@ -1,2 +1,20 @@
-<!--pages/resume/resume.wxml-->
-<text>pages/resume/resume.wxml</text>
+<view class="img">
+  <image src="../../image/1.jpg"></image>
+</view>
+<view class="message">
+  <view class="message_item">
+      <view class="h4">工作经历</view>
+      <view class="message_txt">
+        <view>2018.10-2019.06</view>
+        <view>北京......公司</view>
+      </view>
+       <view class="message_txt">
+        <view>2018.10-2019.06</view>
+        <view>北京......公司</view>
+      </view>
+       <view class="message_txt">
+        <view>2018.10-2019.06</view>
+        <view>北京......公司</view>
+      </view>
+  </view>
+</view>

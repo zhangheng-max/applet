@@ -11,7 +11,7 @@
         <text class="mobile">手机</text>
         <text class="mobile">175584187333</text>
       </view>
-      <button size="mini">拨打</button>
+      <button size="mini" bindtap="dian">拨打</button>
     </view>
     <view class="message_inem_mobile">
       <view class="message_inem_txt">

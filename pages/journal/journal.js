@@ -1,5 +1,6 @@
-// pages/index/index.js
+// pages/journal/journal.js
 Page({
+
   /**
    * 页面的初始数据
    */

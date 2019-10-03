@@ -1,0 +1,28 @@
+/* pages/journal/journal.wxss */
+.header{
+  padding: 0 20rpx;
+  background: #fff;
+}
+.header_top{
+  width: 100rpx;
+  height: 100rpx;
+  display: block;
+  background: red;
+  margin: 0 auto;
+  margin-bottom: 20rpx;
+}
+.header_button{
+  color: #000;
+  font-size: 30rpx;
+}
+.main{
+  padding: 0 20rpx;
+}
+.main .main_txt{
+  margin-top: 50rpx;
+  font-size: 30rpx;
+}
+.main .main_txt .h4{
+  margin-bottom: 50rpx;
+  font-weight: bold;
+}
