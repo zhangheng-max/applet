@@ -30,16 +30,16 @@
   </view>
   <view class="yield">
     <view class="yield_item">
-      <view class="img"></view>
-      <text>生产海报</text>
+      <view class="img"><text class="iconfont icon-tupian"></text></view>
+      <text class="h5">生产海报</text>
     </view>
      <view class="yield_item">
-      <view class="img"></view>
-      <text>保存电话</text>
+      <view class="img"><text class="iconfont icon-dianhua"></text></view>
+      <text class="h5">保存电话</text>
     </view>
      <view class="yield_item">
-      <view class="img"></view>
-      <text>分享好友</text>
+      <view class="img"><text class="iconfont icon-fenxiang"></text></view>
+      <text class="h5">分享好友</text>
     </view>
   </view>
 </view>

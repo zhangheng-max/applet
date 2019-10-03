@@ -1,9 +1,9 @@
 {
   "pages": [
-    "pages/journal/journal",
     "pages/index/index",
     "pages/project/project",
-    "pages/resume/resume"
+    "pages/resume/resume",
+    "pages/journal/journal"
   ],
   "window": {
     "backgroundTextStyle": "dark",

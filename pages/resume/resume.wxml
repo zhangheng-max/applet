@@ -3,7 +3,22 @@
 </view>
 <view class="message">
   <view class="message_item">
-      <view class="h4">工作经历</view>
+      <view class="h4"><text class="iconfont icon-md-briefcase"></text> 工作经历</view>
+      <view class="message_txt">
+        <view>2018.10-2019.06</view>
+        <view>北京......公司</view>
+      </view>
+       <view class="message_txt">
+        <view>2018.10-2019.06</view>
+        <view>北京......公司</view>
+      </view>
+       <view class="message_txt">
+        <view>2018.10-2019.06</view>
+        <view>北京......公司</view>
+      </view>
+  </view>
+  <view class="message_item">
+      <view class="h4"><text class="iconfont icon-xuexi"></text> 工作经历</view>
       <view class="message_txt">
         <view>2018.10-2019.06</view>
         <view>北京......公司</view>
