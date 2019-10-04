@@ -3,7 +3,8 @@
     "pages/index/index",
     "pages/project/project",
     "pages/resume/resume",
-    "pages/journal/journal"
+    "pages/journal/journal",
+    "pages/journal2/journal2"
   ],
   "window": {
     "backgroundTextStyle": "dark",

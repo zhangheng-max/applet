@@ -1,3 +1,5 @@
+/* pages/journal2/journal2.wxss */
+
 /* pages/journal/journal.wxss */
 .header{
   padding: 0 20rpx;
